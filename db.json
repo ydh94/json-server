@@ -16,7 +16,7 @@
       "id": "test2",
       "name": "박○○",
       "password": "12345",
-      "img": "https://cdn-icons.flaticon.com/png/512/4440/premium/4440944.png?token=exp=1644641141~hmac=c890d90dbb6b4817b534a5b71a0f102d"
+      "img": "https://cdn-icons-png.flaticon.com/512/1876/1876934.png"
     },
     {
       "id": "test3",
@@ -30,7 +30,7 @@
       "id": 1,
       "userId": "test2",
       "userName": "박○○",
-      "profileImage": "https://cdn-icons.flaticon.com/png/512/4440/premium/4440944.png?token=exp=1644641141~hmac=c890d90dbb6b4817b534a5b71a0f102d",
+      "profileImage": "https://cdn-icons-png.flaticon.com/512/1876/1876934.png",
       "content": "저희 이번주에 모임 그대로 진행하는 건가요~? 코로나 때문에 걱정되네요 ㅠㅜ",
       "date": "2022-02-10 11:21:01"
     },
@@ -54,7 +54,7 @@
       "id": 4,
       "userId": "test2",
       "userName": "박○○",
-      "profileImage": "https://cdn-icons.flaticon.com/png/512/4440/premium/4440944.png?token=exp=1644641141~hmac=c890d90dbb6b4817b534a5b71a0f102d",
+      "profileImage": "https://cdn-icons-png.flaticon.com/512/1876/1876934.png",
       "content": "아쉽지만 어쩔 수 없네요 ㅠㅠ 알겠습니다 ! 다들 건강 잘 챙기시고 나중에 모이기로 해요 ~",
       "date": "2022-02-10 11:25:31"
     },
