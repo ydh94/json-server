@@ -13,13 +13,16 @@ server.use(
     '/api/*': '/$1',
   })
 );
+server.use(jsonServer.bodyParser);
 
 server.post('/login', (req, res) => {
+  console.log(req.body);
   const { id, password } = req.body;
   const userInfo = users.find((e) => {
     return e.id === id && e.password === password;
   });
-  if (userInfo.length) {
+  console.log(userInfo);
+  if (userInfo) {
     res.send(userInfo);
   } else {
     res.send();
