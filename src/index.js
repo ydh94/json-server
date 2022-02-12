@@ -16,13 +16,3 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-
-
-const handleDelete = (id) => {
-  axios.delete(`www.naver.com/${id}`)
-}
-
-
-data.map((e, i) => {
-  return <Component key={i} id={e.id} onClick={}></Component>
-})
